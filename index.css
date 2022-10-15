@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+}
+body{
+    background: linear-gradient(rgb(2, 172, 87),rgb(163, 221, 184));
+    height:600px;
+}
+div{
+    color:chocolate;
+}
